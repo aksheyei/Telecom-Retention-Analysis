@@ -35,6 +35,14 @@ Analysis of the processed data revealed specific "Red Zones" where the company i
 * **High-Yield Risk:** Customers aged **55+** represent **49%** of the churned population.
 
 ---
+## 🎨 Phase 3: Interactive Intelligence Dashboard
+The final report translates these findings into a visual story for executive stakeholders.
+
+**Dashboard View: Executive Summary**
+![Main Dashboard](dashboard_preview.png)
+
+**Dashboard View: Customer Segmentation**
+![Service Breakdown](dashboard_preview2.png)
 
 
 ## 💡 Phase 3: Strategic Recommendations
@@ -46,11 +54,11 @@ I have synthesized the findings into a **4-Pillar Retention Roadmap**:
 
 ---
 
-## 📂 Repository Structure & Navigation
-* [**📁 data_source/**](./Data%20Source/): Contains Raw and Processed `.xlsx` datasets.
-* [**📁 telecom_churn_report/**](./Telecom%20Churn%20Report/): Includes the Power BI Intelligence Report (`Telecom_Project.pbix`).
-* [**📁 dashboard_preview/**](./Dashboard%20Preview/): Contains static snapshots (`dashboard_preview.png`, `dashboard_preview2.png`).
-* [**📁 issue_insight_telecom/**](./Issue%20and%20Insight%20Telecom/): Contains the `Issue_log` and `Insight_log` detailing the methodology.
+
+## 📂 Repository Navigation
+* [**📊 Power BI Dashboard**](./Telecom_churn_report.pbix) - Interactive report file.
+* [**📁 Data Source (Excel)**](./Data_source.xlsx) - Cleaned dataset used for analysis.
+* [**📝 Issue & Insight Log**](./issue_insight_telecom.xlsx) - Documentation of data cleaning and findings.
 
 ---
 ## 👤 Author & Contact
