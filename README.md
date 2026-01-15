@@ -36,18 +36,8 @@ Analysis of the processed data revealed specific "Red Zones" where the company i
 
 ---
 
-## 🎨 Phase 3: Interactive Intelligence Dashboard
-The final phase involved translating findings into a visual story for stakeholders using Power BI. 
 
-**Dashboard View: Executive KPIs**
-![Executive Summary](Dashboard%20Preview/dashboard_preview.png)
-
-**Dashboard View: Segment & Demographic Analysis**
-![Segment Analysis](Dashboard%20Preview/dashboard_previw2.png)
-
----
-
-## 💡 Phase 4: Strategic Recommendations
+## 💡 Phase 3: Strategic Recommendations
 I have synthesized the findings into a **4-Pillar Retention Roadmap**:
 1. **Contractual Migration:** Transition Month-to-Month users to 6-month 'Bridge Plans' to reduce monthly volatility.
 2. **90-Day Hyper-Care:** Implement a proactive onboarding sequence (welcome calls) to survive the high-risk first 6 months.
@@ -57,10 +47,10 @@ I have synthesized the findings into a **4-Pillar Retention Roadmap**:
 ---
 
 ## 📂 Repository Structure & Navigation
-* [**📁 Data Source/**](./Data%20Source/): Contains Raw and Processed `.xlsx` datasets.
-* [**📁 Telecom Churn Report/**](./Telecom%20Churn%20Report/): Includes the Power BI Intelligence Report (`Telecom_Project.pbix`).
-* [**📁 Dashboard Preview/**](./Dashboard%20Preview/): Contains static snapshots (`dashboard_preview.png`, `dashboard_preview2.png`).
-* [**📁 Issue and Insight Telecom/**](./Issue%20and%20Insight%20Telecom/): Contains the `Issue_log` and `Insight_log` detailing the methodology.
+* [**📁 data_source/**](./Data%20Source/): Contains Raw and Processed `.xlsx` datasets.
+* [**📁 telecom_churn_report/**](./Telecom%20Churn%20Report/): Includes the Power BI Intelligence Report (`Telecom_Project.pbix`).
+* [**📁 dashboard_preview/**](./Dashboard%20Preview/): Contains static snapshots (`dashboard_preview.png`, `dashboard_preview2.png`).
+* [**📁 issue_insight_telecom/**](./Issue%20and%20Insight%20Telecom/): Contains the `Issue_log` and `Insight_log` detailing the methodology.
 
 ---
 ## 👤 Author & Contact
