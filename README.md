@@ -56,7 +56,7 @@ I have synthesized the findings into a **4-Pillar Retention Roadmap**:
 
 
 ## 📂 Repository Navigation
-* [**📊 Power BI Dashboard**](./Telecom_churn_report.pbix) - Interactive report file.
+* [**📊 Power BI Dashboard**](./Telecom_churn_dashboard.pbix) - Interactive report file.
 * [**📁 Data Source (Excel)**](./Data_source.xlsx) - Cleaned dataset used for analysis.
 * [**📝 Issue & Insight Log**](./issue_insight_telecom.xlsx) - Documentation of data cleaning and findings.
 
