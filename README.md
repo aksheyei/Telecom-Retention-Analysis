@@ -39,7 +39,7 @@ Analysis of the processed data revealed specific "Red Zones" where the company i
 The final report translates these findings into a visual story for executive stakeholders.
 
 **Dashboard View: Executive Summary**
-![Main Dashboard](dashboard_preview.png)
+![Main Dashboard](Overview_page.png)
 
 **Dashboard View: Customer Segmentation**
 ![Service Breakdown](dashboard_preview2.png)
