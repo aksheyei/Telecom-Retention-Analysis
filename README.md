@@ -41,7 +41,7 @@ The final report translates these findings into a visual story for executive sta
 **Dashboard View: Executive Summary**
 ![Main Dashboard](Overview_page.png)
 
-**Dashboard View: Customer Segmentation**
+**Dashboard View: Churn Analysis**
 ![Service Breakdown](Churn-Analysis_page.png)
 
 
