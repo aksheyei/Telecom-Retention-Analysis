@@ -42,7 +42,7 @@ The final report translates these findings into a visual story for executive sta
 ![Main Dashboard](Overview_page.png)
 
 **Dashboard View: Customer Segmentation**
-![Service Breakdown](dashboard_preview2.png)
+![Service Breakdown](Churn-Analysis_page.png)
 
 
 ## 💡 Phase 3: Strategic Recommendations
